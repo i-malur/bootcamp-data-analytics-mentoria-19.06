@@ -1,6 +1,6 @@
 # Bootcamp Data Analytics - Estatística
 
-### Cenário
+### Cenário:
 Para compreender uma grande quantidade de dados, é necessário resumi-los em medidas. Entender como essas medidas se relacionam e descrevem os dados é uma das atividades de Data Analytics. A forma de realizar isso é por meio da Estatística Descritiva.
 Vamos ao caso!
 O Instituto Aprender encomendou à nossa consultoria a criação de uma amostra para uma pesquisa com 3500 pessoas. Essa amostra deve ser dividida entre os estados que possuem a maior população em cada uma das regiões do Brasil. Você foi o analista selecionado para esse trabalho. Abaixo seguem as análises solicitadas pelo cliente:
